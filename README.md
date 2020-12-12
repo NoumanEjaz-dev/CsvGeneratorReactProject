@@ -1,2 +1,0 @@
-# CsvGeneratorReactProject
-Csv project
